@@ -1,35 +1,8 @@
-h
-e
-l
-o
-o
+line 1
 
----**-*-*-*-*-*
 
-h
-e
-l
-l
-o
-2
---*-**-**
-l
-l
-l
-l
-l
-c
-h
-a
-n
-g
-e
-/*/*
+line 2222
 
-f
-f
-f
-f
-g
-g
----
+
+line 3
+
